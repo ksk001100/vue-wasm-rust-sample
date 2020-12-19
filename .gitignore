@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+wasm-markdown/target
+wasm-markdown/pkg
 
 
 # local env files
